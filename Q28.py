@@ -1,0 +1,5 @@
+a = float(input("Enter value of a:"))
+b = float(input("Enter value of b:"))
+c = float(input("Enter value of c:"))
+disc = (b**2)-(4*a*c)
+print("The value of discriminant(disc) is:", disc)

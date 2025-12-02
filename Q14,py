@@ -1,0 +1,3 @@
+millimeters = 100.0
+inches = millimeters / 25.4
+print("Length in inches =",inches)
